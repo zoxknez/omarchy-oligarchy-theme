@@ -1,0 +1,9 @@
+# Local checks and generated previews
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Do not commit rendered or staging output from local Omarchy testing.
+.omarchy/
+theme-preview/
