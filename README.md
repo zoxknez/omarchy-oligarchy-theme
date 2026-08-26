@@ -9,7 +9,7 @@ A dark executive theme for Omarchy built from warm graphite, antique brass, blac
 ## Install
 
 ```sh
-omarchy theme install https://github.com/YOUR_GITHUB_USERNAME/omarchy-oligarchy-theme
+omarchy theme install https://github.com/zoxknez/omarchy-oligarchy-theme
 ```
 
 ## Palette
