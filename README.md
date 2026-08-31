@@ -4,6 +4,18 @@ A dark executive theme for Omarchy built from warm graphite, antique brass, blac
 
 > Free software. Expensive patrons.
 
+## In Omarchy
+
+Tested on a real Omarchy / Quattro installation.
+
+![Oligarchy terminal](screenshots/terminal.png)
+
+![Oligarchy menu](screenshots/menu.png)
+
+![Oligarchy desktop](screenshots/desktop.png)
+
+## Wallpapers
+
 ![Oligarchy backgrounds](backgrounds.jpg)
 
 ## Install
